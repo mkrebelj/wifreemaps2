@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WiFreeMaps</string>
+    <string name="title_activity_maps">MapWiFree</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_reciever">Reciever</string>
+    <string name="prompt_wifi">Wifi is not enabled. For full functionality of this app wifi should be enabled. Click OK to go to settings?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="prompt_gps">GPS sattelites not available. Data provided without accurate GPS lock will not be added to database. Enable?</string>
+    <string name="networkListView">Current networks</string>
+    <string name="networkDetails">Network details</string>
+
+    <string name="pref_select_map_view">Map view</string>
+    <string name="pref_select_map_view_summary">Select type of map view</string>
+    <string name="allow_active_scan">Active scan</string>
+    <string name="allow_active_scan_summary">Allow app to collect network data when in background</string>
+
+    <string name="pref_syncConnectionType">conn type title</string>
+    <string name="pref_syncConnectionTypes_default">default</string>
+    <string name="map_settings">Map settings</string>
+    <string name="voicemail_provider1">provider 1</string>
+    <string name="voicemail_provider2">provider 2</string>
+    <string name="voicemail_settings">vojsmejl settins</string>
+    <string name="voicemail_ringtone_title">rington titel</string>
+</resources>
